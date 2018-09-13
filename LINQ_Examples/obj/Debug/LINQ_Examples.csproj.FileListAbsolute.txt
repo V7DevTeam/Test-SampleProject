@@ -13,3 +13,6 @@ C:\Users\charles.heon\Documents\Visual Studio 2015\Projects\Exercise Files\Ch05\
 C:\Users\charles.heon\Documents\Visual Studio 2015\Projects\Exercise Files\Ch05\05_01\05_01_Basic_LINQ_Query_Filtering_start\LINQ_Examples\bin\Debug\LINQ_Examples.exe
 C:\Users\charles.heon\Documents\Visual Studio 2015\Projects\Exercise Files\Ch05\05_01\05_01_Basic_LINQ_Query_Filtering_start\LINQ_Examples\bin\Debug\LINQ_Examples.pdb
 C:\Users\charles.heon\Documents\Visual Studio 2015\Projects\Exercise Files\Ch05\05_01\05_01_Basic_LINQ_Query_Filtering_start\LINQ_Examples\obj\Debug\LINQ_Examples.csprojResolveAssemblyReference.cache
+C:\Users\charles.heon\Source\Repos\Test-SampleProject\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+C:\Users\charles.heon\Source\Repos\Test-SampleProject\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+C:\Users\charles.heon\Source\Repos\Test-SampleProject\LINQ_Examples\obj\Debug\LINQ_Examples.pdb

@@ -79,6 +79,12 @@ namespace LINQ_Examples
                 where c.State == "OR" && c.Price > 1000
                 select c;
 
+            string test = "";
+
+            test += "yo";
+
+            Console.WriteLine(test);
+
             foreach (Customer c in stateQuery)
             {
                 Console.WriteLine("{0}, {1}, {2:c}", c.First, c.Last, c.Price);
